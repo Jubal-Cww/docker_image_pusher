@@ -10,4 +10,5 @@
 #vllm/vllm-openai:v0.6.1
 # qwenllm/qwenvl:2.5-cu121
 #rapidsai/miniforge-cuda:cuda11.8.0-base-ubuntu20.04-py3.10
-pytorch/pytorch:2.5.0-cuda12.1-cudnn9-devel
+# pytorch/pytorch:2.5.0-cuda12.1-cudnn9-devel
+nvidia/cuda:11.4.4-base-centos7
